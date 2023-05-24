@@ -1,3 +1,5 @@
+![runner](https://github.com/JacanaFSilva/DeltaRunner/assets/67348567/3aad8067-c815-4a92-8df8-8362edfc8bcf)
+
 <div align="center">
   <a href="README-pt.md">Português</a>
   ·
