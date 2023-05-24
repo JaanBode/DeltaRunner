@@ -50,7 +50,7 @@ Open Windows PowerShell, and type the following instructions:
 ```
 and:
 ```sh
-  https://github.com/JacanaFSilva/DeltaRunner.git
+  git clone https://github.com/JacanaFSilva/DeltaRunner.git
 ```
 
 ## 2: After installing the dependencies, do:
