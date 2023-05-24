@@ -25,9 +25,9 @@
 
 ## Dependencies
 
-- [Python](https://www.python.org/) - Javascript Runtime Environment.
-- [Pygame](https://www.pygame.org/news) - map containers with overlays.
-- [PyInstaller](https://pypi.org/project/pyinstaller/) - database to configure each store individually.
+- [Python](https://www.python.org/) - main code.
+- [Pygame](https://www.pygame.org/news) - library to  game development in python.
+- [PyInstaller](https://pypi.org/project/pyinstaller/) - library to compile a python file to a executable file.
 
 <a id="execute"></a>
 
