@@ -5,59 +5,60 @@
 </div>
   
 <p align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#live-server">Game</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#dependencies">Dependencies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#execute">How to run</a>
+  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#live-server">Jogo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dependencies">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#execute">Como Rodar</a>
 </p>
 
 <a id="about"></a>
-**DeltaRunner** is a runner style game with enhanced mechanics and beatiful visuals. Beat your score through deviant creature who wants to attack and clock your path.
+**DeltaRunner**  é um runner-style com mecânicas aprimoradas e belos visuais. Vença seu próprio score ao enfrentar monstros que vem de encontro ao seu caminho.
         
 <a id="live-server"></a>
 
 ## Game
-- [DeltaRunnerWindowx](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/windowsBuild.zip) - windows build direct download.
-- [DeltaRunnerLinux](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/linuxBuild.zip) - linux build direct download.
-- [DeltaRunner](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/main.zip) - pre-compiled direct download.
+- [DeltaRunnerWindowx](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/windowsBuild.zip) - windows build - download direto.
+- [DeltaRunnerLinux](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/linuxBuild.zip) - linux build - download direto.
+- [DeltaRunner](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/main.zip) - jogo pré-compilad - download direto.
 
 <a id="dependencies"></a>
 
-## Dependencies
+## Dependências
 
-- [Python](https://www.python.org/) - Javascript Runtime Environment.
-- [Pygame](https://www.pygame.org/news) - map containers with overlays.
-- [PyInstaller](https://pypi.org/project/pyinstaller/) - database to configure each store individually.
+- [Python](https://www.python.org/) - código principal.
+- [Pygame](https://www.pygame.org/news) - biblioteca para desenvolvimento de jogos em python.
+- [PyInstaller](https://pypi.org/project/pyinstaller/) - biblioteca para compilação em executável de um arquivo python.
 
 <a id="execute"></a>
 
-## Locally running
+## Rodando em sua máquina
 
 <h2><strong>Pre-requirements</strong></h2>
 
-- **required for linux users** **[WineHq](https://wiki.winehq.org/Download)** - execute the app.
-- Open runner.exe and the game will start.
-- With you want to build from the main files you gonna need to:
+- **requisito para usuários linux** **[WineHq](https://wiki.winehq.org/Download)** - para executar o arquivo.
+- Abra o runner.exe e o jogo irá iniciar automaticamente.
+- Se você quiser compilar por si próprio, então:
 
-## 1: Cloning the repository to your computer:
+## 1: Clone o repositório para sua máquina:
 
-Open Windows PowerShell, and type the following instructions:
+Abra o Windows PowerShell, e digite as seguintes instruções:
+
 ```sh
   cd *roty_directory/
 ```
-and:
+e:
 ```sh
   https://github.com/JacanaFSilva/DeltaRunner.git
 ```
 
-## 2: After installing the dependencies, do:
+## 2: Depois de instalar as dependências, execute:
 
 ```sh
  cd *roty_directory/DetalRunner/Runner-preCompiledBuild
  pyinstaller runner.py
 ```
 
-## 3: The executable file gonna appers after this and you can play the game.
+## 3: O arquivo runner.py irá compilar num executável e você poderá rodar o game.
 
 *root_directory: by default "C:\Program Files"
 <!--<h1 align="center">
