@@ -17,7 +17,7 @@
 <a id="live-server"></a>
 
 ## Game
-- [DeltaRunnerWindowx](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/windowsBuild.zip) - windows build - download direto.
+- [DeltaRunnerWindows](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/windowsBuild.zip) - windows build - download direto.
 - [DeltaRunnerLinux](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/linuxBuild.zip) - linux build - download direto.
 - [DeltaRunner](https://github.com/JacanaFSilva/DeltaRunner/archive/refs/heads/main.zip) - jogo pré-compilad - download direto.
 
