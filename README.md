@@ -33,7 +33,7 @@
 
 <a id="execute"></a>
 
-## Locally running
+## Local run
 
 <h2><strong>Pre-requirements</strong></h2>
 
